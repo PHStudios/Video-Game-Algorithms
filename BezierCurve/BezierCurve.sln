@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezierCurve", "BezierCurve\BezierCurve.csproj", "{B0CD460B-9567-44D5-AB31-7B9DA1B96013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CD460B-9567-44D5-AB31-7B9DA1B96013}.Debug|x86.ActiveCfg = Debug|x86
+		{B0CD460B-9567-44D5-AB31-7B9DA1B96013}.Debug|x86.Build.0 = Debug|x86
+		{B0CD460B-9567-44D5-AB31-7B9DA1B96013}.Release|x86.ActiveCfg = Release|x86
+		{B0CD460B-9567-44D5-AB31-7B9DA1B96013}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA402A68-2702-4748-B238-DAE3E5ECFB4A}
+	EndGlobalSection
+EndGlobal
